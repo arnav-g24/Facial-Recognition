@@ -1,7 +1,7 @@
 import cv2, os, face_recognition
 import numpy as np
 
-path = "/Users/arnavg/PythonProjects/personal/CV/facialRec/dataSet"
+path = ""    #enter path to your dataset
 
 
 def store(folder):
